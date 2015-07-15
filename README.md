@@ -7,3 +7,6 @@ Experimental repo for learning more about GitHub features.
 - [x] <a href="http://steve-yegge.blogspot.com/2006/09/good-agile-bad-agile_27.html">Good Agile, Bad Agile</a> by Steve Yegge
   - Mostly about Google's unique development "methodology" circa 2006
   - Takeaway is that all you really need to help drive productivity is a **software-based, annotated priority queue** of tasks and requirements (user stories)
+- [x] [Licenses](http://choosealicense.com/)
+- [x] [Forking](https://help.github.com/articles/fork-a-repo/)
+- [x] [Issues](https://guides.github.com/features/issues/)
