@@ -63,8 +63,10 @@
       *                    moves employee information to output *
       *                    areas, then writes the record        *
       ***********************************************************
-       200-PROCESS-RTN.
+       201-ROUTINE-RTN.
            MOVE IN-EMPLOYEE-NAME TO OUT-EMPLOYEE-NAME
+           MOVE IN-SALARY TO OUT-SALARY
+       300-PROCESS-RTN.
            MOVE IN-SALARY TO OUT-SALARY
            WRITE OUT-SALARY-REC.
 
